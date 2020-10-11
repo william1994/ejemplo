@@ -35,10 +35,10 @@ namespace Login
 
             if (ok == true)
             {
-                MessageBox.Show("Welcome ");
+                MessageBox.Show("Bienvenido ");
             }
             else {
-                MessageBox.Show("Stop");
+                MessageBox.Show("Error");
             }
 
 
