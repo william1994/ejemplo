@@ -1,0 +1,16 @@
+C:\Users\William\Documents\vs2019\Login\Login\bin\Debug\netcoreapp3.1\Login.exe
+C:\Users\William\Documents\vs2019\Login\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+C:\Users\William\Documents\vs2019\Login\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+C:\Users\William\Documents\vs2019\Login\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+C:\Users\William\Documents\vs2019\Login\Login\bin\Debug\netcoreapp3.1\Login.dll
+C:\Users\William\Documents\vs2019\Login\Login\bin\Debug\netcoreapp3.1\Login.pdb
+C:\Users\William\Documents\vs2019\Login\Login\obj\Debug\netcoreapp3.1\Login.csprojAssemblyReference.cache
+C:\Users\William\Documents\vs2019\Login\Login\obj\Debug\netcoreapp3.1\Login.colentor.resources
+C:\Users\William\Documents\vs2019\Login\Login\obj\Debug\netcoreapp3.1\Login.Form1.resources
+C:\Users\William\Documents\vs2019\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.GenerateResource.cache
+C:\Users\William\Documents\vs2019\Login\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+C:\Users\William\Documents\vs2019\Login\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+C:\Users\William\Documents\vs2019\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+C:\Users\William\Documents\vs2019\Login\Login\obj\Debug\netcoreapp3.1\Login.dll
+C:\Users\William\Documents\vs2019\Login\Login\obj\Debug\netcoreapp3.1\Login.pdb
+C:\Users\William\Documents\vs2019\Login\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache
